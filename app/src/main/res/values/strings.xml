@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Medify</string>
+    <string name="begin_again_text">Begin again.</string>
+    <string name="embrace_tranquility_text">Embrace tranquility, one breath at a time. Explore our Al guided meditations and grow your mindfulness journey</string>
+    <string name="sign_up_text">Sign up</string>
+    <string name="log_in_text">Log In</string>
 </resources>
