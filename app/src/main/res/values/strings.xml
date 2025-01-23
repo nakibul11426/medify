@@ -4,4 +4,9 @@
     <string name="embrace_tranquility_text">Embrace tranquility, one breath at a time. Explore our Al guided meditations and grow your mindfulness journey</string>
     <string name="sign_up_text">Sign up</string>
     <string name="log_in_text">Log In</string>
+    <string name="welcome_back_text">Welcome back</string>
+    <string name="we_are_happy_to_see_you_again_please_enter_your_email_and_password_text">We are happy to see you again, Please Enter your Email and Password</string>
+    <string name="forgot_password_text">Forgot Password?</string>
+    <string name="or_text">or</string>
+    <string name="create_account_text">Create Account</string>
 </resources>
