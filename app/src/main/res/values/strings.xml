@@ -8,5 +8,10 @@
     <string name="we_are_happy_to_see_you_again_please_enter_your_email_and_password_text">We are happy to see you again, Please Enter your Email and Password</string>
     <string name="forgot_password_text">Forgot Password?</string>
     <string name="or_text">or</string>
+    <string name="email_text">Email</string>
+    <string name="password_text">Password</string>
     <string name="create_account_text">Create Account</string>
+    <string name="already_have_an_account_text">Already have an account?</string>
+    <string name="create_an_account_text">Create an Account</string>
+    <string name="create_an_account_it_takes_less_than_a_minute_enter_your_email_and_password_text">Create an account, it takes less than a minute, Enter your Email and Password</string>
 </resources>

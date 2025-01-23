@@ -15,7 +15,7 @@ import com.alex.medify.screens.StartingScreen
 fun Navigation(navController: NavController) {
     NavHost(
         navController = navController as NavHostController,
-        startDestination = Screen.LoginScreen.route
+        startDestination = Screen.SplashScreen.route
     ) {
         composable(route = Screen.SplashScreen.route) {
             SplashScreen(navController = navController)

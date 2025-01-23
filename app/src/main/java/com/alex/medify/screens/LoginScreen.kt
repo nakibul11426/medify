@@ -76,11 +76,11 @@ fun LoginScreen(modifier: Modifier = Modifier, navController: NavController) {
                 textAlign = TextAlign.Center
             )
             Spacer(modifier = Modifier.height(48.dp))
-            RoundedEditText(optionText = "Email", onValueChange = { input ->
+            RoundedEditText(optionText = stringResource(R.string.email_text), onValueChange = { input ->
                 println("Current text: $input")
             })
             Spacer(modifier = Modifier.height(24.dp))
-            RoundedEditText(optionText = "Password", onValueChange = { input ->
+            RoundedEditText(optionText = stringResource(R.string.password_text), onValueChange = { input ->
                 println("Current text: $input")
             })
             Spacer(modifier = Modifier.height(48.dp))
@@ -143,7 +143,7 @@ fun LoginScreen(modifier: Modifier = Modifier, navController: NavController) {
 
             CustomRoundedButton(
                 onClick = {
-                    navController.navigate(Screen.LoginScreen.route)
+                    navController.navigate(Screen.RegistrationScreen.route)
                 },
                 buttonText = stringResource(R.string.create_account_text)
             )
